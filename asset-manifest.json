@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c79a1645.css",
+    "main.js": "/static/js/main.cc5a4397.js",
+    "static/js/787.e5372b0f.chunk.js": "/static/js/787.e5372b0f.chunk.js",
+    "static/media/game-video.mp4": "/static/media/game-video.69d7c1b094b22f0deaae.mp4",
+    "static/media/back-website.png": "/static/media/back-website.1dd51d18a2cb0f024531.png",
+    "static/media/7.png": "/static/media/7.90ffb18c2f35dd20f922.png",
+    "static/media/1.png": "/static/media/1.28e21953f94634ae6f22.png",
+    "static/media/19.png": "/static/media/19.f61ceccc680e3b0b87d5.png",
+    "static/media/OpenSans-Medium.ttf": "/static/media/OpenSans-Medium.f0cdede053a22b990af8.ttf",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-Bold.ttf": "/static/media/OpenSans-Bold.6e27168fc8a5a200a026.ttf",
+    "static/media/20.png": "/static/media/20.18d09b950282bb7da350.png",
+    "static/media/back-game.png": "/static/media/back-game.c565265e9d1cf94ef1f2.png",
+    "static/media/81.png": "/static/media/81.a4aea25a196a9cf7bff2.png",
+    "static/media/5.png": "/static/media/5.42c0f3b211b515876982.png",
+    "static/media/82.png": "/static/media/82.4be9410ccb007d90e217.png",
+    "static/media/gusano-guerrero.png": "/static/media/gusano-guerrero.fe340c28544a3ddbf295.png",
+    "static/media/83.png": "/static/media/83.8f055d021dd2a5f47028.png",
+    "static/media/logo.png": "/static/media/logo.fa8dbcc4deba85fcf4b0.png",
+    "static/media/12.png": "/static/media/12.13b7af9d5066e1dd4121.png",
+    "static/media/ROADMAPVERTICAL.png": "/static/media/ROADMAPVERTICAL.91c2802e1f8e8beda45d.png",
+    "static/media/zorro.png": "/static/media/zorro.81f3e6bbead55accf1e7.png",
+    "static/media/alien.png": "/static/media/alien.3020a694f565e8899624.png",
+    "static/media/gusano1.png": "/static/media/gusano1.47ab068e373b4b96da6d.png",
+    "static/media/ROADMAPHORIZONTAL.png": "/static/media/ROADMAPHORIZONTAL.ca65a93cfd4e9cc90697.png",
+    "static/media/huevo-gusano.png": "/static/media/huevo-gusano.b341fe9a05b7d0e9d30a.png",
+    "static/media/9.png": "/static/media/9.6b2e0a4c840ccda3ee00.png",
+    "static/media/13.png": "/static/media/13.ebaa2289b67dd34847f9.png",
+    "index.html": "/index.html",
+    "main.c79a1645.css.map": "/static/css/main.c79a1645.css.map",
+    "main.cc5a4397.js.map": "/static/js/main.cc5a4397.js.map",
+    "787.e5372b0f.chunk.js.map": "/static/js/787.e5372b0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79a1645.css",
+    "static/js/main.cc5a4397.js"
+  ]
+}
